@@ -25,7 +25,8 @@ News Alerts:
   Brief: Article 2 Description
 - Headline: Article 3 Title
   Brief: Article 3 Description
-
+# DEMO
+![before]()
 ## Setup
 
 1. Replace the placeholder values in the script with your actual API keys, stock/company information, and Twilio credentials.
