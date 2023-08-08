@@ -11,7 +11,7 @@ Before running the script, you need to have the following:
 ## Functionality
 Fetches the closing prices of the stock for the last two days and calculates the price difference and percentage change.
 Determines whether the stock price increased or decreased and assigns corresponding emoji.
-If the price change is within -6%, fetches news articles related to the specified company.
+If the price change is within 5%, fetches news articles related to the specified company.
 Formats and sends news alerts via SMS using Twilio to the specified phone number.
 ## Example Output
 Yesterday's Closing Price: $XYZ
