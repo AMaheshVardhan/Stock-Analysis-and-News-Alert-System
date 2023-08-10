@@ -25,7 +25,8 @@ News Alerts:
   Brief: Article 2 Description
 - Headline: Article 3 Title
   Brief: Article 3 Description
-
+## Demo
+![Screenshot_2023-08-08-22-05-34-954_com google android apps messaging-edit](https://github.com/Mahesh-Vardhan/Stock-Analysis-and-News-Alert-System/assets/113368513/3f7b8d9d-497a-476c-8503-c4eee0d5a95a)
 ## Setup
 
 1. Replace the placeholder values in the script with your actual API keys, stock/company information, and Twilio credentials.
