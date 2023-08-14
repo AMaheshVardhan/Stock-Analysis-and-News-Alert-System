@@ -16,6 +16,7 @@ TWILIO_AUTH_TOKEN = "YOUR_TWILIO_AUTH_TOKEN"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
+
 def send_alert():
     def fetch_stock_data():
         stock_params = {
