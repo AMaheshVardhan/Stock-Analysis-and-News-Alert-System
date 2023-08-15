@@ -3,6 +3,7 @@ from twilio.rest import Client
 STOCK_NAME = "TSLA"#The Company Four letter Code that you need alerts
 COMPANY_NAME = "X Corp"
 
+
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 STOCK_API_KEY = "VDL24M0ODB9TNF99"#Open Your own key on alphavantage for free
