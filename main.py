@@ -1,5 +1,7 @@
 import requests
 from twilio.rest import Client
+
+
 STOCK_NAME = "TSLA"#The Company Four letter Code that you need alerts
 COMPANY_NAME = "X Corp"
 
