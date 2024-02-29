@@ -17,7 +17,6 @@ stock_params = {
     "symbol": STOCK_NAME,
     "apikey": STOCK_API_KEY,
 }
-
 response = requests.get(STOCK_ENDPOINT, params=stock_params)
 data = response.json()["Time Series (Daily)"]
 data_list = [value for (key, value) in data.items()]
