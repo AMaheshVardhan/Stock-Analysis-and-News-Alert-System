@@ -1,5 +1,4 @@
-requests
-twilio
-python
-api
-ide
+Before running the script, you need to have the following:
+
+Python 3.x installed
+Required libraries: requests, twilio (install using pip install requests twilio
